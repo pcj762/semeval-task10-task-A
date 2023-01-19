@@ -1,0 +1,1 @@
+You should download the 'simcse-roberta-larget' pre-training model and put it here！
