@@ -1,1 +1,1 @@
-过会上传
+First, you should download the corresponding pre-training model and put it in the corresponding folder, then train the model to get the sub-model, and finally run the model fusion to get the final result
